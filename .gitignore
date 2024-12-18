@@ -1,0 +1,4 @@
+venv/
+spy_cats.db
+.idea
+__pycache__/
