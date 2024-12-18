@@ -51,3 +51,4 @@ Open http://127.0.0.1:8000/docs for Swagger UI.
 Open http://127.0.0.1:8000/redoc for ReDoc.
 ```
 
+## Postman collection located in file: spy-cat.postman_collection.json
